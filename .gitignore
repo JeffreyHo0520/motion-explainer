@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+dist/
+build/
+
+# Node / HyperFrames
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Renders & Output artifacts
+renders/
+out/
+output/
+videos/
+*.mp4
+*.wav
+*.tmp
+*.log
+*.backup.*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
